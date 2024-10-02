@@ -1,0 +1,30 @@
+Modelos del dataset entrenado con yolov8
+(usados Para comparar):
+
+Frijol_0 = 
+
+https://colab.research.google.com/drive/1csm-iwoTRpVojvb4-yAfrocclHFOY96j?usp=sharing
+
+
+Frijol_1 = 
+
+https://colab.research.google.com/drive/1TnDMVxmR1WBwCvQp2wgw3snntg-7dXGp?usp=sharing
+
+Frijol_2 = 
+
+https://colab.research.google.com/drive/1wT9u8o4dl8ei9d3gOiiFeIJqkl1lZjBj?usp=sharing
+
+Frijol_3 = 
+https://colab.research.google.com/drive/1j-I-D7NmquUg1i_9YwIpG6cPGInX_eeA?usp=sharing
+
+
+Roboflow_Models_for_plant_Identification_By_Class:
+
+
+Frijol_0 = https://universe.roboflow.com/frijol0final/contador_frijol_clase_0/model/5
+
+Frijol_1 = https://universe.roboflow.com/trabajogrado-lrqfv/beans_detection-sutjq/model/2
+
+Frijol_2 = https://universe.roboflow.com/frijol/frijol-zsnha/model/9
+
+Frijol_3 = https://universe.roboflow.com/trabajogrado-lzbyi/frijol-kb9ti/model/1

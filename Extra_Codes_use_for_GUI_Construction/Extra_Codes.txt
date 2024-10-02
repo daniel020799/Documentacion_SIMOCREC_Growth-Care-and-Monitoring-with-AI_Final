@@ -1,0 +1,9 @@
+Code use for improve the images quality and identify with roboflow models for plant identification and size classification:
+
+https://colab.research.google.com/drive/1f9Vtg2yp0lnScadyE4ZBevR0J8JHZ9mP?usp=sharing
+
+use for GUI Construction.
+
+Code to identify plants and classify by lushness:
+
+https://colab.research.google.com/drive/1_islZ-JDshUWUYG2TxMtvVPwKrRn8x1T?usp=sharing
